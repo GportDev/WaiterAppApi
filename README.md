@@ -38,3 +38,9 @@ yarn start -y
   `mongoose.connect('mongodb://servidor:porta')`
 - [ ] Criar os models/Collections (tabelas)
 - [ ] Estabelecer relacionamento
+- [ ] Criar os casos de uso
+  - [ ] Criar router no padrão REST
+  - [ ] Instalar a lib multer para permitir fazer upload dentro da aplicação (pode ser feito para S3 em casos maiores, neste caso vai ser na própria máquina onde a aplicação está rodando)
+
+## Finalização
+- [ ] Criar script de start para rodar o node no build
