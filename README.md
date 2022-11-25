@@ -11,6 +11,7 @@ yarn start -y
 ```
 
 - [ ] Instalar Typescript (-D)
+  - [ ] Iniciar com `npx tsc --init`
 - [ ] Configurar pasta de build/dist
   Arquivo tsconfig -> "outdir"
 - [ ] Criar arquivo gitignore
